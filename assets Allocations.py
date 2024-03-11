@@ -41,8 +41,8 @@ uni.add_department("Software Engineering")
 uni.add_department("Computer Science")
 
 # Allocating Assets
-asset1 = Asset("Classroom", "Room 2.12")
-asset2 = Asset("Laboratory", "Lab A")
+asset1 = Asset("Classroom", "Room 2.15")
+asset2 = Asset("Laboratory", "2.03")
 asset3 = Asset("Equipment", "Computer Chips")
 
 uni.allocate_asset("Software Engineering", asset1)
